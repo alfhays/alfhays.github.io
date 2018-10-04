@@ -1,0 +1,37 @@
+* {
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+
+body {
+    width: 960px;
+    margin: 0 auto;
+}
+
+h1 {
+    text-align: center;
+    margin-bottom: 20px;
+    margin-top: 40px;
+}
+
+.des-cont {
+    width: 700px;
+    float: right;
+}
+
+.datos {
+    width: 260px;
+    float: left;
+}
+
+.datos li {
+    margin-left: 40px;
+}
+
+.tres ul li {
+    width: 31.5%;
+    float: left;
+    margin: 2px;
+    list-style: none;
+}

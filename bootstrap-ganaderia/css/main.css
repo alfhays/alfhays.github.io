@@ -1,0 +1,32 @@
+.navbar {
+    box-shadow: 2px 2px 5px #000;
+    opacity: 0.9;
+}
+
+.navbar .nav-item .nav-link {
+    color: #fff;
+}
+
+.main-header {
+    position: relative;
+    background: url(../img/vacas.jpg);
+    background-size: cover;
+}
+
+.background-overlay {
+    background: rgba(72, 52, 212, 0.7);
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+
+.form-control,
+.btn {
+    border-radius: 0;
+}
+
+.team,
+footer {
+    background: rgb(75, 6, 139);
+}
